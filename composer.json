@@ -65,5 +65,10 @@
     "psr-4": {
       "Walmart\\Test\\": "test/"
     }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.0.x-dev"
+    }
   }
 }
